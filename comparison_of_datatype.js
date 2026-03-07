@@ -17,8 +17,9 @@
 // console.log(undefined > 0); // false
 // console.log(undefined < 0); // false
 
-// WE SHIULD AVOID THESE TYPE OF NULL AND INDEFINED CONVERSIONS.
+// WE SHoULD AVOID THESE TYPE OF NULL AND INDEFINED CONVERSIONS.
 
 // ===  -> check strictly --> check datatype also
 console.log("2" === 2);
+
 console.log("2" == 2);
